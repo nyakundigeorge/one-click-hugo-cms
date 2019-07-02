@@ -3,7 +3,7 @@ title: Every moment Counts
 subtitle: Making Memories
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Agani Creatives?
+  heading: Agani Creatives!
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
